@@ -1,3 +1,2 @@
-name: Bonggar Situmorang, IT Specialist
-markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+markdown: kramdown
